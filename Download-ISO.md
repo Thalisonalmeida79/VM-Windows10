@@ -2,7 +2,7 @@
 
 - O que é uma Imagem ISO?<br>
  Um arquivo que contém uma **cópia exata** de um sistema de arquivos de disco óptico (CD/DVD)<br>
- Permite instalar o SO (Sistema Operacional) em uma máquina física ou virtual.
+ Permite instalar o SO (Sistema Operacional) em uma máquina física ou virtual.<br>
 
 - Como fazer seu download?<br>
 Link: [microsoft.com/pt-br/software-download/windows10ISO](https://www.microsoft.com/pt-br/software-download/windows10ISO)<br                
